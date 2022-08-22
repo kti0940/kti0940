@@ -1,4 +1,4 @@
-### [smiling-face-with-sunglasses-emoji-clipart-md](https://user-images.githubusercontent.com/61997714/185871198-a819efda-e33b-4517-b879-b19f64c178cb.png) 안녕하세요 반갑습니다! 👋!
+### 안녕하세요 반갑습니다! 👋!
 Welcome to my page!<br>
 I'm Taein, BackEnd developer from 🇰🇷
 ---
