@@ -1,8 +1,9 @@
-### 안녕하세요 반갑습니다! 👋
-Welcome to my page!
+### [smiling-face-with-sunglasses-emoji-clipart-md](https://user-images.githubusercontent.com/61997714/185871198-a819efda-e33b-4517-b879-b19f64c178cb.png) 안녕하세요 반갑습니다! 👋!
+Welcome to my page!<br>
 I'm Taein, BackEnd developer from 🇰🇷
+---
 
-### ⛏기술스택
+### ⛏ 기술스택
 <div style="display:flex">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
