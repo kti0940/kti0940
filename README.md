@@ -1,6 +1,8 @@
 ### 안녕하세요 반갑습니다! 👋 <br>
+
 Welcome to my page!<br>
 I'm Taein, BackEnd developer from 🇰🇷
+
 ---
 
 ### ⛏ 기술스택
