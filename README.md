@@ -1,5 +1,5 @@
 ### 안녕하세요 반갑습니다! 호기심 많은 개발자 입니다!👋 <br>
-https://img.shields.io/github/followers/kti0940?style=social
+<img src="https://img.shields.io/github/followers/kti0940?style=social">
 
 Welcome to my page!<br>
 I'm Taein, BackEnd developer from 🇰🇷
