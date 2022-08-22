@@ -3,8 +3,7 @@
 
 ## 안녕하세요 반갑습니다😎 호기심 많은 백엔드 개발자 입니다👋 <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Nene&pause=1000&color=00DA4F&width=435&lines=Welcome+to+my+page!)](https://git.io/typing-svg)
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Nene&pause=1000&color=00DA4F&width=435&lines=I'm+Taein%2C+BackEnd+Developer+From+%F0%9F%87%B0%F0%9F%87%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Nene&pause=1000&color=00DA4F&width=435&lines=I'm+Taein%2C+BackEnd+Developer+From+%F0%9F%87%B0%F0%9F%87%B7)](https://git.io/typing-svg)
  
 <a href="https://github.com/kti0940"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 <a href="https://velog.io/@kti0940"><img src="https://img.shields.io/badge/kti0940.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
