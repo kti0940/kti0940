@@ -10,7 +10,7 @@ I'm Taein, BackEnd developer from 🇰🇷
 
 <img src="https://github-readme-stats.vercel.app/api?username=kti0940&show_icons=true&theme=radical"/>
  
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kti0940&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kti0940&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
  
 </div>
 
