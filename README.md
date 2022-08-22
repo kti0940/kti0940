@@ -25,7 +25,6 @@ I'm Taein, BackEnd developer from 🇰🇷
 <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 </div>
-
-<br>
 ---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kti0940&layout=compact)](https://github.com/kti0940/github-readme-stats)
