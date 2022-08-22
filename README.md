@@ -1,12 +1,15 @@
 ### 안녕하세요 반갑습니다! 호기심 많은 개발자 입니다!👋 <br>
+<div align="center">
 <img src="https://img.shields.io/github/followers/kti0940?style=social">
 
 Welcome to my page!<br>
 I'm Taein, BackEnd developer from 🇰🇷
 
-🐤 velog : https://velog.io/@kti0940
+<a href="https://github.com/kti0940"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
+<a href="https://velog.io/@kti0940"><img src="https://img.shields.io/badge/kti0940.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 [![kti0940 GitHub stats](https://github-readme-stats.vercel.app/api?username=kti0940)](https://github.com/kti0940/github-readme-stats)
+</div>
 
 ---
 
