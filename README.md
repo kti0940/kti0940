@@ -1,7 +1,8 @@
-### 안녕하세요 반갑습니다! 호기심 많은 개발자 입니다!👋 <br>
+
 <div align="center">
 <img src="https://img.shields.io/github/followers/kti0940?style=social">
 
+### 안녕하세요 반갑습니다! 호기심 많은 개발자 입니다!👋 <br>
 Welcome to my page!<br>
 I'm Taein, BackEnd developer from 🇰🇷
 
@@ -9,6 +10,8 @@ I'm Taein, BackEnd developer from 🇰🇷
 <a href="https://velog.io/@kti0940"><img src="https://img.shields.io/badge/kti0940.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 [![kti0940 GitHub stats](https://github-readme-stats.vercel.app/api?username=kti0940)](https://github.com/kti0940/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kti0940&layout=compact)](https://github.com/kti0940/github-readme-stats)
 </div>
 
 ---
@@ -35,5 +38,3 @@ I'm Taein, BackEnd developer from 🇰🇷
 </div>
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kti0940&layout=compact)](https://github.com/kti0940/github-readme-stats)
