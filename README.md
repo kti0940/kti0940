@@ -10,7 +10,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kti0940&theme=shades-of-purple&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kti0940&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kti0940&show_icons=true&theme=shades-of-purple"/>
  
 </div>
 
