@@ -1,7 +1,7 @@
 
 <div>
 
-## 안녕하세요 반갑습니다😎 호기심 많은 백엔드 개발자 입니다👋 <br>
+안녕하세요 반갑습니다😎 호기심 많은 백엔드 개발자 입니다👋 <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anton&pause=1000&color=000000&width=450&height=60&lines=Welcome+to+my+page!)](https://git.io/typing-svg)<br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anton&pause=1000&color=000000&width=450&height=60&lines=I'm+Taein%2C+BackEnd+Developer+From+%F0%9F%87%B0%F0%9F%87%B7)](https://git.io/typing-svg)
 
@@ -14,7 +14,6 @@
  
 </div>
 
----
 
 ## ⛏ Skills
 <div style="display:flex">
@@ -36,5 +35,3 @@
 <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 </div>
-
----
