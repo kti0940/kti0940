@@ -27,5 +27,7 @@ I'm Taein, BackEnd developer from 🇰🇷
 </div>
 
 ---
-
+<div style="display:flex">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kti0940&layout=compact)](https://github.com/kti0940/github-readme-stats)
+[![kti0940 GitHub stats](https://github-readme-stats.vercel.app/api?username=kti0940)](https://github.com/kti0940/github-readme-stats)
+</div>
