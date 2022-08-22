@@ -1,6 +1,5 @@
 
 <div align="center">
-<img src="https://img.shields.io/github/followers/kti0940?style=social">
 
 ### 안녕하세요 반갑습니다! 호기심 많은 개발자 입니다!👋 <br>
 Welcome to my page!<br>
