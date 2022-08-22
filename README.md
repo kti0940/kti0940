@@ -1,7 +1,7 @@
 
 <div align="center">
 
-### 안녕하세요 반갑습니다! 호기심 많은 개발자 입니다!👋 <br>
+### 안녕하세요 반갑습니다😎 호기심 많은 백엔드 개발자 입니다👋 <br>
 Welcome to my page!<br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=224EF7&width=435&lines=I'm+Taein%2C+BackEnd+Developer+From+%F0%9F%87%B0%F0%9F%87%B7)](https://git.io/typing-svg)
 
