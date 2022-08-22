@@ -1,5 +1,5 @@
 
-<div align="center">
+<div>
 
 ### 안녕하세요 반갑습니다😎 호기심 많은 백엔드 개발자 입니다👋 <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anton&pause=1000&color=000000&width=450&height=60&lines=Welcome+to+my+page!)](https://git.io/typing-svg)<br>
