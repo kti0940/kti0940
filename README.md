@@ -14,7 +14,6 @@
  
 </div>
 
-
 ## ⛏ Skills
 <div style="display:flex">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -35,3 +34,8 @@
 <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 </div>
+
+## 📌 Contact
+- 이메일 : kti0940@gmail.com
+- 벨로그 : https://velog.io/@kti0940
+- 깃허브 : https://github.com/kti0940
