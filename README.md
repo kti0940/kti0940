@@ -11,6 +11,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kti0940&theme=vue&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=kti0940&show_icons=true&theme=vue"/>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kti0940)](https://solved.ac/kti0940/)
  
 </div>
 
